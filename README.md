@@ -23,6 +23,7 @@ require: `Unity and addtional packages installed`
 Flying Balloon is a free and open source game developed by me for personal interest purpose. Any contributaions are welcome. Few ways you can help
 * Report bugs and makes suggestions
 * Add more features, follow code style used in the project to make sure it's maintained correctly
+* Make an executable file so that user can install easily without having to install Unity
 
 ## License 
 This application is released under MIT
