@@ -15,9 +15,9 @@ There are two modes that you can play are the endless mode and the challenge mod
 This game is fun when you are playing with your friends, family and challenge together to see who would get the highest score among.
 
 ## Installation
-clone: `<https://github.com/nguyenh13/FlyingBalloonGame>`
+clone: `https://github.com/nguyenh13/FlyingBalloonGame`
 
-require: `<Unity and addtional packages installed>`
+require: `Unity and addtional packages installed`
 
 ## Contributing
 Flying Balloon is a free and open source game developed by me for personal interest purpose. Any contributaions are welcome. Few ways you can help
